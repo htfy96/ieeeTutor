@@ -3,7 +3,7 @@
 ##技术栈
 
  - Ruby on Rails后端（sqlite数据库）
- - React.js（后端渲染，不引进前端，作为单纯的模版引擎使用） （见https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers）
+ - React.js（后端渲染，*尽量*不引进前端，作为单纯的模版引擎使用(Note: 但是js文件还是必要的)） （见https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers）
  - JQuery（这个不说了）
  - Pure.css 不采用bootStrap等复杂的前端框架，因为排版需求很复杂，建议还是手写css）（雾）
 

@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  name: MyString
+  gender: false
+  birthday: 2015-09-28
+  major: MyText
+  title: MyText
+  ieeeMember: MyString
+  personalWebsite: MyString
+  description: MyText
+  academicQualification: MyText
+  school: MyText
+  researchArea: MyString
+  email: MyString
+  office: MyString
+  photoUrl: MyString
+  password_digest: <%= BCrypt::Password.create('secret') %>
+
+two:
+  id: 
+  name: MyString
+  gender: false
+  birthday: 2015-09-28
+  major: MyText
+  title: MyText
+  ieeeMember: MyString
+  personalWebsite: MyString
+  description: MyText
+  academicQualification: MyText
+  school: MyText
+  researchArea: MyString
+  email: MyString
+  office: MyString
+  photoUrl: MyString
+  password_digest: <%= BCrypt::Password.create('secret') %>

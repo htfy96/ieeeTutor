@@ -1,0 +1,83 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  name: MyString
+  gender: false
+  class: MyString
+  year: 1
+  syntheticscore: MyString
+  decimal: MyString
+  gpa: MyString
+  decimal: MyString
+  rank: MyString
+  integer: MyString
+  description: MyString
+  text: MyString
+  note: MyString
+  text: MyString
+  failedCount: MyString
+  integer: MyString
+  failedSubjects: MyString
+  text: MyString
+  failedClassDescription: MyString
+  text: MyString
+  email: MyString
+  phoneNumber: 1
+  photoUrl: MyString
+  string: MyString
+  password: MyString
+  digest: MyString
+  major1: MyString
+  string: MyString
+  major1Direction: MyString
+  major2: MyString
+  string: MyString
+  major2Direction: MyString
+  minor1: MyString
+  string: MyString
+  minor1Direction: MyString
+  minor2: MyString
+  minor2Direction: MyString
+  evaluation: MyText
+
+two:
+  id: 
+  name: MyString
+  gender: false
+  class: MyString
+  year: 1
+  syntheticscore: MyString
+  decimal: MyString
+  gpa: MyString
+  decimal: MyString
+  rank: MyString
+  integer: MyString
+  description: MyString
+  text: MyString
+  note: MyString
+  text: MyString
+  failedCount: MyString
+  integer: MyString
+  failedSubjects: MyString
+  text: MyString
+  failedClassDescription: MyString
+  text: MyString
+  email: MyString
+  phoneNumber: 1
+  photoUrl: MyString
+  string: MyString
+  password: MyString
+  digest: MyString
+  major1: MyString
+  string: MyString
+  major1Direction: MyString
+  major2: MyString
+  string: MyString
+  major2Direction: MyString
+  minor1: MyString
+  string: MyString
+  minor1Direction: MyString
+  minor2: MyString
+  minor2Direction: MyString
+  evaluation: MyText
